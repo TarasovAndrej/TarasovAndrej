@@ -1,11 +1,16 @@
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
+</div>
+
+###
+
+<h1 align="center">Привет👋 Меня зовут Андрей!</h1>
+
+###
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет,👋;Меня+зовут+Андрей&center=true&size=30">
-  </a>
-</h1>
-<!--
 **TarasovAndrej/TarasovAndrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
