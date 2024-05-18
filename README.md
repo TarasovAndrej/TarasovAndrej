@@ -42,7 +42,7 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tarasov_andrej)
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](tarasovandreyy@gmail.соm)
+[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:tarasovandreyy@gmail.соm)
 
 
 </div>
@@ -53,6 +53,8 @@
 | Курсы                                                           | Период обучения   | Документ об окончании |
 | ----------------------------------------------------------------| :---------------: | :--------------------:|
 | karpov.courses/Аналитик данных                                  | 08/2023 - 02/2024 |     [Сертификат](https://lab.karpov.courses/certificate/2bab7021-72ce-4e9b-95d6-f9f9c07e75bf/)     |
+| Stepik/Программирование на Python                                  | 01/2024 - 02/2024 |     [Сертификат](https://stepik.org/certificate/47a8d17c94196056b5ac0ea9cc58a46b4df5c2ef.pdf)     |
+| SQL и PostgreSQL для начинающих                                 | 10/2021 - 01/2022 |     [Сертификат](https://beonmax.com/certificates/699e693f90cd6126958f04ec979c37c3/ru/)     |
 
 
   <h2>Мои проекты 👇</h2>
