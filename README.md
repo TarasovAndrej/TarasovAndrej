@@ -57,6 +57,9 @@
 | karpov.courses/Аналитик данных                                  | 08/2023 - 02/2024 |     [Сертификат](https://lab.karpov.courses/certificate/2bab7021-72ce-4e9b-95d6-f9f9c07e75bf/)     |
 | Stepik/Программирование на Python                                  | 01/2024 - 02/2024 |     [Сертификат](https://stepik.org/certificate/47a8d17c94196056b5ac0ea9cc58a46b4df5c2ef.pdf)     |
 | SQL и PostgreSQL для начинающих                                 | 10/2021 - 01/2022 |     [Сертификат](https://beonmax.com/certificates/699e693f90cd6126958f04ec979c37c3/ru/)     |
+| karpov.courses/Основы Python                                 | 07/2024 - 10/2024 |     [Сертификат](https://lab.karpov.courses/certificate/b4d46143-4a2b-4809-884a-838b4600f6e0/)     |
+| karpov.courses/Симулятор SQL                                | 05/2024 - 10/2024 |     [Сертификат](https://lab.karpov.courses/certificate/5338f164-c848-4d6a-bdfb-b011527c016f/)     |
+| Т-Банк/Базовый курс по анализу данных                                | 09/2024 - 11/2024 |     [Сертификат](https://disk.yandex.ru/i/8Z-hF80viBGJeg)     |
 
 
   <h2>Мои проекты 👇</h2>
